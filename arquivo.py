@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Em 1926, Von Neumann conseguiu o doutorado em matemática pela universidade de Budapeste."
     return mensagem
 
 
@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Alguns artigos publicados foram: Theory of self-reproducing automata, On the introduction of transfinite numbers,  A spectral theory for general operators of a unitary space\nmpact of Atomic Energy on the Physical and Chemical Sciences"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Em matemática não percebemos coisas. Apenas nos habituamos a elas.\nExiste um conjunto infinito A que não é demasiado grande.\nPodia parecer que chegamos ao limite do que era possível alcançar com a tecnologia dos computadores, contudo, uma pessoa deveria ser cuidadosa com tais afirmações, pois tendem a soar muito tontas em 5 anos. (dito em 1949)"
     return mensagem
 
 
