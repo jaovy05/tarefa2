@@ -1,5 +1,5 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "John Von Neumann foi um matemático húngaro que utilizou pela primeira vez a linguagem binária para que as instruções, lidas na época por cartões perfurados, fossem gravadas na memória do computador;."
     return mensagem
 
 
@@ -9,7 +9,7 @@ def doutorado():
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Contribuiu com o hardware fazendo que as instruções fossem gravadas no ocmputador, que segue sendo o formato do processador atual até hoje. "
     return mensagem
 
 
